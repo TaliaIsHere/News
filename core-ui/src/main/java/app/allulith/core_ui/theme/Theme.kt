@@ -1,6 +1,5 @@
-package app.allulith.news.ui.theme
+package app.allulith.core_ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

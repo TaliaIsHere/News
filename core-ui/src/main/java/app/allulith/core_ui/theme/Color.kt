@@ -1,4 +1,4 @@
-package app.allulith.news.ui.theme
+package app.allulith.core_ui.theme
 
 import androidx.compose.ui.graphics.Color
 

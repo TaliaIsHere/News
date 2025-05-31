@@ -1,4 +1,4 @@
-package app.allulith.news.ui.theme
+package app.allulith.core_ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
